@@ -1,0 +1,2 @@
+# amaris
+amaris example
